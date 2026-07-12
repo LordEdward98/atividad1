@@ -12,3 +12,4 @@ C:\Users\edwar\Downloads\hola\obj\Debug\net10.0\refint\hola.dll
 C:\Users\edwar\Downloads\hola\obj\Debug\net10.0\hola.pdb
 C:\Users\edwar\Downloads\hola\obj\Debug\net10.0\hola.genruntimeconfig.cache
 C:\Users\edwar\Downloads\hola\obj\Debug\net10.0\ref\hola.dll
+C:\Users\edwar\Downloads\hola\obj\Debug\net10.0\hola.sourcelink.json
