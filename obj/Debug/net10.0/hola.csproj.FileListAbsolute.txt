@@ -1,0 +1,14 @@
+C:\Users\edwar\Downloads\hola\bin\Debug\net10.0\hola.exe
+C:\Users\edwar\Downloads\hola\bin\Debug\net10.0\hola.deps.json
+C:\Users\edwar\Downloads\hola\bin\Debug\net10.0\hola.runtimeconfig.json
+C:\Users\edwar\Downloads\hola\bin\Debug\net10.0\hola.dll
+C:\Users\edwar\Downloads\hola\bin\Debug\net10.0\hola.pdb
+C:\Users\edwar\Downloads\hola\obj\Debug\net10.0\hola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwar\Downloads\hola\obj\Debug\net10.0\hola.AssemblyInfoInputs.cache
+C:\Users\edwar\Downloads\hola\obj\Debug\net10.0\hola.AssemblyInfo.cs
+C:\Users\edwar\Downloads\hola\obj\Debug\net10.0\hola.csproj.CoreCompileInputs.cache
+C:\Users\edwar\Downloads\hola\obj\Debug\net10.0\hola.dll
+C:\Users\edwar\Downloads\hola\obj\Debug\net10.0\refint\hola.dll
+C:\Users\edwar\Downloads\hola\obj\Debug\net10.0\hola.pdb
+C:\Users\edwar\Downloads\hola\obj\Debug\net10.0\hola.genruntimeconfig.cache
+C:\Users\edwar\Downloads\hola\obj\Debug\net10.0\ref\hola.dll
